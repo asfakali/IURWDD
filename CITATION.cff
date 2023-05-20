@@ -1,0 +1,18 @@
+cff-version: 1.1.0
+message: "If you use this Dataset, please cite it as below."
+authors:
+- family-names: "Ali"
+  given-names: "Asfak"
+  orcid: "https://orcid.org/0000-0002-4034-1956"
+- family-names: "Sk"
+  given-names: "Md Manarul"
+- family-names: "Pal"
+  given-names: "Debanka"
+- family-names: "Sk"
+  given-names: "Saifuddin"
+- family-names: "Sinha Chaudhuri"
+  given-names: "Sheli"
+title: "My Research Software"
+version: 1.0.1
+date-released: 2023-05-18
+url: "https://github.com/asfakali/IURWDD.git"
