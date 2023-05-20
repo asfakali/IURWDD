@@ -14,7 +14,7 @@ YOLO Format: https://drive.google.com/file/d/1-0VIKv3rxQqaiIGFOQDrUsijoHD6Oe16/v
 If you use IURWDD in a scientific publication, we would appreciate using the following citations:
 
 ```
-@data{ak_iurwdd_2023,
+@deta{ak_iurwdd_2023,
     year      = {2023},
     author    = {Ali, Asfak and Sk, Md. Manarul and Pal, Debanka, aifuddin and Sinha Chaudhuri, Sheli}
     title     = {IURWDD: Indian Urban and Rural Waste Detection Dataset and Benchmark},
